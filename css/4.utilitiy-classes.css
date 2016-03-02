@@ -1,6 +1,7 @@
 /* structural */
 .u-constrict {
-    width: 820px;
+    max-width: 820px;
+    min-width: 320px;
     margin: 0 auto;
     padding: 0.5em;
 }

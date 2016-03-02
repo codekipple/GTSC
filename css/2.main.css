@@ -162,9 +162,12 @@ table td {
         padding: 1em;
     }
 }
-.c-section--full {
+.c-section--2016 {
+    background: #eaf48b;
+}
+.c-section--2015 {
     background: #e6d7f9;
 }
-.c-section--half {
-    background: #eaf48b;
+.c-section--2014 {
+    background: #AEEEEE;
 }
